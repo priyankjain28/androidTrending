@@ -1,7 +1,7 @@
 # App Instruction
 1. Download apk
-2. Mainscreen display android repositories - filter option Best Match, Most Stars, Fewest Stars, Most Forks, Fewest Forks, Recently Updated
-3. also diplay Language Trending Repository like Kotlin, Java, Dart - filter options is Daily, Weekly, Monthly 
+2. MainActivity display trending android repositories - filter option you can select are best match, most stars, fewest stars, most forks, fewest forks, recently updated
+3. MainActivity also display trending language repository like Kotlin, Java, Dart - filter options are Daily, Weekly, Monthly 
 4. Detail Activity display detail information of selected repository
 5. Web View Activity display web view of selected repository
 
