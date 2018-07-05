@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">AndroidTrending</string>
+    <string name="rep_det"><b><u>Repository Detail</u></b></string>
+    <string name="rep_msg"><u>Click here to web view of Repository!!</u></string>
+    <string-array name="language_filter">
+        <item>daily</item>
+        <item>weekly</item>
+        <item>monthly</item>
+
+    </string-array>
+    <string-array name="android_filter">
+        <item>Best match</item>
+        <item>Most stars</item>
+        <item>Fewest stars</item>
+        <item>Most forks</item>
+        <item>Fewest forks</item>
+        <item>Recently updated</item>
+    </string-array>
+
+</resources>
